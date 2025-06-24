@@ -1,6 +1,8 @@
+// This is a test comment to force a git change
+// Force update for git commit
 import { Mail, Phone, MapPin, Send, Linkedin } from "lucide-react";
 import { useState } from "react";
-import wambuiBg from "../assets/wambui red dress.jpg";
+import wambuiBg from "../assets/wambui red dress.png";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
