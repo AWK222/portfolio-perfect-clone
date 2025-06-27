@@ -2,7 +2,7 @@
 // Force update for git commit
 import { Mail, Phone, MapPin, Send, Linkedin } from "lucide-react";
 import { useState } from "react";
-import wambuiBg from "../assets/wambui red dress.png";
+import wambuiBg from "../assets/wambui red dress.JPG";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
