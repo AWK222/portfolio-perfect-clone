@@ -2,7 +2,7 @@ import React from "react";
 import cocaColaLogo from "../assets/coca.cola.png";
 import glo365Logo from "../assets/glo 365.png";
 import kfcLogo from "../assets/kfc.png";
-import number7Logo from "../assets/number 7.png";
+import number7Logo from "../assets/Number7.png";
 
 const brands = [
   { name: "Coca Cola", logo: cocaColaLogo },
